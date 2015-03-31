@@ -1,0 +1,10 @@
+\#*\#
+*~
+.lock-wafbuild
+.waf*
+build/
+ns3waf/__init__.pyc
+files-*/
+/pcap
+/xml
+exitprocs
